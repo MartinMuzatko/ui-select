@@ -89,7 +89,7 @@
 
         .constant('uiSelectConfig', {
             theme: 'bootstrap',
-            path: 'partials/ui-select/',
+            path: '/',
             searchEnabled: true,
             placeholder: '', // Empty by default, like HTML tag <select>
             refreshDelay: 1000, // In milliseconds
